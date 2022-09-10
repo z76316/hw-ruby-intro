@@ -4,6 +4,7 @@
 
 def sum(arr)
   # YOUR CODE HERE
+  # test for the git on my ec2
 end
 
 def max_2_sum(arr)
