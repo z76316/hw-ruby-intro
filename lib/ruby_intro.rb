@@ -4,7 +4,7 @@
 
 def sum(arr)
   # YOUR CODE HERE
-  # test for the git on cloud9 with credential.helper
+  # test for the git on cloud9 with credential.helper again
 end
 
 def max_2_sum(arr)
